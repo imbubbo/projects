@@ -1,2 +1,1 @@
-# projects
-imbubbo's projects.
+# Projects
